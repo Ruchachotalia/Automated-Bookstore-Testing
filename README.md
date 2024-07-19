@@ -1,3 +1,5 @@
+# Automated-Bookstore-Testing
+
 E-BookStore Automation Testing Selenium with Java. 
 
 Testing scenarios: 
@@ -15,4 +17,3 @@ Helper: All action events are configured in this folder.
 POMElements: Used to locate elements on the entire website
 
 Test Cases: Contains the test scenarios and the main test runner class.
-# Automated-Bookstore-Testing
